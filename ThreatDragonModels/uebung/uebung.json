@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "uebung",
+    "owner": "Jan",
+    "description": "DevSecOps Uebung",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "Jan",
+    "threatTop": 0
+  }
+}
